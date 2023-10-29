@@ -13,6 +13,7 @@ function Container({
 
       <div className={`container-children ${direction} ${contentPosition}`}>
         {children}
+        {children}
       </div>
     </div>
   );
